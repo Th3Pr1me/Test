@@ -14,7 +14,7 @@ public class P1 {
 		
 		//cambio  abajo
 		//cambio abajo todo junto
-		//Añado los cambios del feature
+		//corregido el error del cambio del feature
 		
 	}
 
